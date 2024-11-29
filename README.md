@@ -14,6 +14,10 @@ A simple command-line calculator built in Ruby that supports basic arithmetic op
 ## Prerequisites 🔧
 - Ruby (version 2.x or higher) installed on your system.
 
+## CLI 🔧
+![Bash](image.png)
+
+
 ## Installation 🛠️
 
 1. **Clone the repository**:
